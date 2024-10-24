@@ -45,7 +45,7 @@ Si tienes alguna idea para colaborar o simplemente quieres decir hola, puedes co
 ## Siempre aprendiendo 💡
 
 <div align="center">
-    <img src="https://media.giphy.com/media/l4FGvKZS5n2hFT7bW/giphy.gif" alt="Coding GIF" style="max-width: 100%; height: auto;">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF">
 </div>
 
 ---
