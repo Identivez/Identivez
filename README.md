@@ -38,7 +38,7 @@ Esta frase me inspira a seguir adelante, sin importar las dificultades. Los desa
 ## Contacto 📫
 
 Si tienes alguna idea para colaborar o simplemente quieres decir hola, puedes contactarme:  
-[ghaelg18@gmail.com](mailto:ghaelg18@gmail.com)
+[ghael.engineer@gmail.com](mailto:ghael.engineer@gmail.com)
 
 ---
 
@@ -50,7 +50,7 @@ Si tienes alguna idea para colaborar o simplemente quieres decir hola, puedes co
 
 ---
 
-## Un toque divertido 😄
+## Algo divertido 😄
 
 Siempre estoy dispuesto a aprender, romper algunas cosas (en el buen sentido 😜) y solucionar problemas. Cuando no estoy programando, probablemente estoy viendo videos de ciberseguridad o explorando nuevos proyectos que desafíen mis habilidades.
 
